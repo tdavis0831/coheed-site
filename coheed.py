@@ -10,7 +10,7 @@ def index():
 
 
 
-@app.route("/login")
+@app.route("/band-info")
 def biography():
     return render_template("login.html")
 
