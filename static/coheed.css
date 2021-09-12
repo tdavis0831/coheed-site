@@ -104,3 +104,8 @@ span{
 color: white;  
 font-size: 17px;  
 }  
+
+#bandinfo{
+    background-image: url('Coheed-and-Cambria.jpg');
+    background-repeat:no-repeat; background-attachment: fixed;  
+}
